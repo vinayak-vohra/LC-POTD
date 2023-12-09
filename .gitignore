@@ -1,0 +1,8 @@
+# ignore all files
+**/*
+
+# include .gitigore
+!.gitignore
+
+# include all cpp files
+!*.cpp
