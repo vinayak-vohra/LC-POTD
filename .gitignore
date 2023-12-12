@@ -6,3 +6,5 @@
 
 # include all cpp files
 !*.cpp
+
+**/*.temp.*
